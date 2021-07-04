@@ -1,1 +1,1 @@
-game.Players.localPlayer:Kick("Script has been deleted!!" "\n please redeem again." "\nUsername : "..game.Players.LocalPlayer.Name)
+game.Players.localPlayer:Kick("Script has been deleted!! \n please redeem again. \n Username: "..game.Players.LocalPlayer.Name)
